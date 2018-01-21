@@ -28,9 +28,9 @@ sys 0m0.236s
 ```
 ```
 time yarn
-real	0m1.234s
-user	0m1.244s
-sys	0m0.052s
+real 0m1.234s
+user 0m1.244s
+sys 0m0.052s
 ```
 
 ### nodejs 6.12.3
