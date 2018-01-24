@@ -23,3 +23,8 @@ sham@sham-home:~/work/yarn-compare-npm/yarn-link/bar$ ls -l node_modules/
 lrwxrwxrwx 1 sham sham 9 янв 24 12:07 foo -> ../../foo
 sham@sham-home:~/work/yarn-compare-npm/yarn-link/bar$ 
 ```
+## Unlink
+```
+cd foo
+yarn unlink
+```
