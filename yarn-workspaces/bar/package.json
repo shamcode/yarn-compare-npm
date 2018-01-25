@@ -1,0 +1,10 @@
+{
+  "name": "bar",
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "foo": "*",
+    "babel-eslint": "8.1.1",
+    "babel-plugin-transform-class-properties": "6.24.1"
+  }
+}
